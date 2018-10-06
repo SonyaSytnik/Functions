@@ -1,3 +1,5 @@
+'use strict'
+
 const plus1 = a => a + 1;
 const sum = (a, b) => a + b;
 const max = (a, b) => (a > b ? a : b);
